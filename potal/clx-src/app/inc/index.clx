@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:cl="http://tomatosystem.co.kr/cleopatra" xmlns:std="http://tomatosystem.co.kr/cleopatra/studio" std:sid="html-3e9f4cbd" version="1.0.0.0">
+  <head std:sid="head-f93cf784">
+    <title>index</title>
+    <screen std:sid="screen-07ddb197" id="default" height="768px" minwidth="1024px" name="default" width="1024px"/>
+    <screen std:sid="screen-cd4e6b47" id="tablet" height="667px" maxwidth="1023px" minwidth="500px" name="tablet" width="500px"/>
+    <screen std:sid="screen-906d8fdf" id="mobile" height="525px" maxwidth="499px" name="mobile" width="350px"/>
+    <cl:model std:sid="model-9e779a74">
+      <cl:dataset std:sid="d-set-76e72972" id="ds1">
+        <cl:datacolumnlist>
+          <cl:datacolumn name="label"/>
+          <cl:datacolumn name="value"/>
+          <cl:datacolumn name="icon"/>
+          <cl:datacolumn name="tooltip"/>
+          <cl:datacolumn name="parent"/>
+          <cl:datacolumn name="accessKey"/>
+        </cl:datacolumnlist>
+        <cl:datarowlist>
+          <cl:datarow>
+            <cl:datavalue columnname="label">사업안내</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[bsnInfo]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"/>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">청년보장제도 소개</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[1]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnInfo]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">상담연결형 안내</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[2]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnInfo]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">진로탐색지원형 안내</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[3]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnInfo]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">일경험지원형 안내</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[4]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnInfo]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">청년희망적금 안내</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[5]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnInfo]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">사업신청</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[bsnApply]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"/>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">참여자격 자가확인</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[6]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">상담연결형 신청</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[7]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">진로탐색지원형 신청</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[8]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">일경험지원형 신청</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[9]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">청년희망적금 신청</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[10]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[bsnApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">수당신청</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[payApply]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"/>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">프로그램 수료확인</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[11]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[payApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">협약서 작성</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[12]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[payApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">수당 신청</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[13]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[payApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">활동계획서 제출</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[14]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[payApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">만족도 조사 참여</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[15]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[payApply]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">커뮤니티</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[comm]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"/>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">공지사항</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[16]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[comm]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">FAQ</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[17]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[comm]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">Q&amp;A</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[18]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[comm]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">마이페이지</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[mypage]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"/>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">로그인 / 회원가입</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[app/inc/mypage/login]]></cl:datavalue>
+            <cl:datavalue columnname="icon"><![CDATA[]]></cl:datavalue>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[mypage]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">개인정보 변경</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[app/inc/myapge/info]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[mypage]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">신청내역 조회</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[app/inc/myapge/applySelect]]></cl:datavalue>
+            <cl:datavalue columnname="icon"><![CDATA[]]></cl:datavalue>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[mypage]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">과거이력 조회</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[app/inc/myapge/historySelect]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[mypage]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+          <cl:datarow>
+            <cl:datavalue columnname="label">나의 Q&amp;A</cl:datavalue>
+            <cl:datavalue columnname="value"><![CDATA[app/inc/myapge/myQnA]]></cl:datavalue>
+            <cl:datavalue columnname="icon"/>
+            <cl:datavalue columnname="tooltip"/>
+            <cl:datavalue columnname="parent"><![CDATA[mypage]]></cl:datavalue>
+            <cl:datavalue columnname="accessKey"/>
+          </cl:datarow>
+        </cl:datarowlist>
+      </cl:dataset>
+      <cl:dataset std:sid="d-set-324f320a" id="database_connect" altercolumnlayout="client">
+        <cl:datacolumnlist>
+          <cl:datacolumn datatype="string" name="LABEL"/>
+          <cl:datacolumn datatype="string" name="VALUE"/>
+          <cl:datacolumn datatype="string" name="ICON"/>
+          <cl:datacolumn datatype="string" name="TOOLTIP"/>
+          <cl:datacolumn datatype="string" name="PARENT"/>
+          <cl:datacolumn datatype="string" name="ACCESSKEY"/>
+        </cl:datacolumnlist>
+      </cl:dataset>
+      <cl:datamap std:sid="d-map-cf5d357d" id="dm1" altercolumnlayout="client">
+        <cl:datacolumnlist>
+          <cl:datacolumn datatype="string" name="LABEL"/>
+          <cl:datacolumn datatype="string" name="VALUE"/>
+          <cl:datacolumn datatype="string" name="ICON"/>
+          <cl:datacolumn datatype="string" name="TOOLTIP"/>
+          <cl:datacolumn datatype="string" name="PARENT"/>
+          <cl:datacolumn datatype="string" name="ACCESSKEY"/>
+        </cl:datacolumnlist>
+      </cl:datamap>
+      <cl:submission std:sid="submission-f7b5066e" id="sms1">
+        <cl:requestdata dataid="ds1"/>
+        <cl:responsedata dataid="ds1"/>
+      </cl:submission>
+    </cl:model>
+    <cl:appspec/>
+  </head>
+  <body std:sid="body-8b44b643" style="top:0px; left:0px; width:800px; height:600px;">
+    <cl:output std:sid="output-eb5666a3" style="font-size:30px; text-align:center;" value="대구 청년사회 진입활동 지원 포털">
+      <cl:xylayoutdata std:sid="xyl-data-308c3ab2" height="46px" horizontalAnchor="BOTH" left="266px" right="266px" top="65px" verticalAnchor="TOP"/>
+    </cl:output>
+    <cl:navigationbar std:sid="n-bar-1a1f9416" id="nav1" listarrowimage="" menutype="menu">
+      <cl:listener std:sid="listener-775248c6" handler="onNav1SelectionChange" name="selection-change"/>
+      <cl:xylayoutdata std:sid="xyl-data-c754e417" height="40px" horizontalAnchor="BOTH" left="266px" right="266px" top="163px" verticalAnchor="TOP"/>
+      <cl:menuitemset datasetid="ds1" label="label" value="value" parent="parent"/>
+    </cl:navigationbar>
+    <cl:xylayout std:sid="xylayout-2cdc6a62"/>
+  </body>
+  <std:studiosetting>
+    <std:hruler/>
+    <std:vruler/>
+  </std:studiosetting>
+</html>
